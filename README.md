@@ -21,15 +21,3 @@ The purpose of this project is to arrange historical information in a timeline s
 
 ## How to Use
 Open the Jupyter Notebook, enter a historical topic, and run the cells. The system will generate a timeline of historical events related to the given topic.
-
-## Author
-Praveen Chauhan
-
-## License
-This project is licensed under the MIT License.
-
-
-Enter a historical topic
-
-Run the cells to generate the timeline
-
