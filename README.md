@@ -1,41 +1,33 @@
-# Timeline Based Historical Event Generation
-Overview
+# Timeline-Based Historical Event Generation 
 
-This project generates historical events in a timeline format using AI. Given a topic, it produces chronologically ordered events with clear and simple explanations, helping users understand history easily.
+This project is designed to generate historical events in a timeline format. It takes a historical topic as input and presents important events in chronological order with clear and simple explanations. The goal of this project is to make history easy to understand and well organized.
 
-Objectives
+## Purpose of the Project
+The purpose of this project is to arrange historical information in a timeline so that users can easily see how events developed over time. It is especially useful for students and learners who want a structured view of history.
 
-Generate timeline-based historical events
+## Technologies Used
+- Python
+- LangChain
+- Google Gemini
+- Hugging Face Embeddings
+- FAISS
+- Jupyter Notebook
 
-Present history in a structured, readable form
+## Key Features
+- Generates timeline-based historical events
+- Displays events in correct chronological order
+- Uses simple and human-readable language
+- Useful for academic and learning purposes
 
-Simplify complex historical information
+## How to Use
+Open the Jupyter Notebook, enter a historical topic, and run the cells. The system will generate a timeline of historical events related to the given topic.
 
-Tech Stack
+## Author
+Praveen Chauhan
 
-Python
+## License
+This project is licensed under the MIT License.
 
-LangChain
-
-Google Gemini
-
-Hugging Face Embeddings
-
-FAISS
-
-Jupyter Notebook
-
-Features
-
-Topic-based historical timeline generation
-
-Chronological event ordering
-
-Human-readable output
-
-Usage
-
-Open the notebook
 
 Enter a historical topic
 
